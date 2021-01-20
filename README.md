@@ -1,2 +1,2 @@
 # git_tutorial
-for purpose of git tutorial
+only for purpose of git tutorial
